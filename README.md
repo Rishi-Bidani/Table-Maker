@@ -8,7 +8,7 @@ You should have **colorama** on your device to use this.
 
 ## Initialise the table as follows:
 
-table1 = TableMaker(3, [20, 15, 10], "cyan") 
+```table1 = TableMaker(3, [20, 15, 10], "cyan") ```
 ###### => number_of_columns, [maximum_lenghts_for_column], colour
 ###### colours available are => BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE
 ```
