@@ -22,3 +22,4 @@ table1.items(row2)
 table.bottomline()
 ```
 This will create a simple table
+![Image of Table](https://github.com/Rishi-Bidani/Table-Maker/blob/master/tableimage.png)
