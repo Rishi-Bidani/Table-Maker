@@ -4,10 +4,11 @@ This is a simple table maker for python
 
 You should have colorama on your device to use this.
 
-Initialise the table as follows:
+##Initialise the table as follows:
 
-table1 = TableMaker(3, [20, 15, 10], "cyan") => number_of_columns, [maximum_lenghts_for_column], colour
-colours available are => BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE
+table1 = TableMaker(3, [20, 15, 10], "cyan") 
+### => number_of_columns, [maximum_lenghts_for_column], colour
+### colours available are => BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE
 
 heading1 = ["title1", "title2", "title3"]
 row1 = ["item1", "item2", "item3"]
