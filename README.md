@@ -21,5 +21,7 @@ table1.items(row1)
 table1.items(row2)
 table.bottomline()
 ```
-This will create a simple table
+###### This will create a simple table as follows:
+
+
 ![Image of Table](https://github.com/Rishi-Bidani/Table-Maker/blob/master/tableimage.png)
