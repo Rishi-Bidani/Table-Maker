@@ -2,7 +2,9 @@
 
 This is a simple table maker for python
 
-You should have colorama on your device to use this.
+
+This uses colors for the heading so,
+You should have **colorama** on your device to use this.
 
 ## Initialise the table as follows:
 
